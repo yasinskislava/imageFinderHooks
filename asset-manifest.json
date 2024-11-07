@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/imageFinderHooks/static/css/main.3978ce5d.css",
+    "main.js": "/imageFinderHooks/static/js/main.89b63a77.js",
+    "index.html": "/imageFinderHooks/index.html",
+    "static/media/search.svg": "/imageFinderHooks/static/media/search.1968d156e100beb4e474b7e7caad901b.svg",
+    "static/media/arrow-left.svg": "/imageFinderHooks/static/media/arrow-left.2b47da5a20456d6d33f61d3fb2f49d08.svg",
+    "static/media/arrow-right.svg": "/imageFinderHooks/static/media/arrow-right.4d6e053b52fb8067456f65c051314fd8.svg",
+    "main.3978ce5d.css.map": "/imageFinderHooks/static/css/main.3978ce5d.css.map",
+    "main.89b63a77.js.map": "/imageFinderHooks/static/js/main.89b63a77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3978ce5d.css",
+    "static/js/main.89b63a77.js"
+  ]
+}
